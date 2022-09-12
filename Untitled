@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>Kale Ivison's Website</title>
+</head>
+
+<body>
+  <strong> IASC </strong>
+  <font color="red"> 1P02 </font>
+  <em> sweet? </em>
+</body>
+
+<body>
+  <h1>  <img src="https://freebiesupply.com/logos/carolina-panthers-logo/" /> </h1>
+
+  <h2>  <img src="Images/Baker.jpeg" /> </h2>
+
+</body>
+
+<body>
+  <h3>
+    <ol>
+       <title>Favorite Sports Teams</title>
+        <li>Carolina Panthers</li>
+        <li>Toronto Maple Leafs</li>
+        <li>Milwaukee Bucks</li>
+    </ol>
+  </h3>
+
+  <h4>
+    <ul>
+      <title>Things About Me:</title>
+      <li>I love Sports</li>
+      <li>I am new to this type of work</li>
+      <li>I am eager to learn how to make a website</li>
+    </ul>
+  </h4>
+
+</body>
+
+<body>
+  <h5>
+    <table width="100" height="100" border="1">
+      <tr>
+        <td width="50" height="50">top left cell</td>
+        <td width="50" height="50">top right cell</td>
+      </tr>
+      <tr>
+        <td rowspan="2">bottom spanned cell</td>
+      </tr>
+    </table>
+  </h5>
+
+  <h6>
+    <table width="100" height="100" border="1">
+      <tr>
+        <td width="50" height="50">top left cell</td>
+        <td colspan="2">right spanned cell</td>
+      </tr>
+      <tr>
+        <td width="50" height="50">bottom left cell</td>
+      </tr>
+    </table>
+  </h6>
+
+  
